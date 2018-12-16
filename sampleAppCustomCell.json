@@ -1,10 +1,6 @@
-[{
-  "Software": [{
-    "sectionTitle":"UITesting on web view",
-    "detailSection":"Execute js test"
-    }],
-  "Sugawara": [{
-    "sectionTitle":"UITesting on table view",
-    "detailSection":"Execute custom cell test" 
-    }]
+"Software": [{
+    "111":"AAA",
+    "222":"BBB",
+    "333":"CCC",
+    "444":"DDD"
 }]
